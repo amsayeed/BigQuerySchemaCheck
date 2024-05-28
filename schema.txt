@@ -1,0 +1,6 @@
+datetime,datetime,NULLABLE
+store_code,str,REQUIRED
+country_iso2,str,REQUIRED
+total_entries,int,REQUIRED
+passers_by,int,NULLABLE
+entrance,list,REPEATED
