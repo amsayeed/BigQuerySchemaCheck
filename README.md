@@ -20,8 +20,7 @@ This Python script validates a BigQuery table's schema against a configuration f
 1. Clone the repository within any directory:
 
 ```
-git clone https://github.com/your-username/bigquery-schema-validator.git
-cd bigquery-schema-validator
+git clone https://github.com/amsayeed/BigQuerySchemaCheck
 ```
 
 2. Prepare a Python virtual environment:
