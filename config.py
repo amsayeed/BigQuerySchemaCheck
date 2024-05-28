@@ -1,4 +1,4 @@
-project_id = "gia-develop-int-94070"
-dataset_id = "deloitte_test"
-table_id = "store_footfall"
+project_id = "project-id"
+dataset_id = "dataset"
+table_id = "table"
 schema_file_path = "schema.txt"
