@@ -192,7 +192,7 @@ INFO:root:  - Nullable: Expected True, got False
 INFO:root:  - Mode: OK
 
 Generated DDL:
-CREATE TABLE `gia-develop-int-94070.deloitte_test.store_footfall` (
+CREATE TABLE `project-id.dataset-name.table-name` (
   datetime datetime,
   store_code str NOT NULL,
   country_iso2 str NOT NULL,
